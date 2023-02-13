@@ -1,0 +1,26 @@
+https://youtu.be/1sPWvaiSbkM?t=1258 ==> Importent.
+
+https://youtu.be/ALF4Tzlm9YQ?t=129 ==> Clear Cart.
+
+https://youtu.be/SzExD4Sn-xM?t=748 ==> Adding Pincode Service Avalablity.
+
+https://youtu.be/SzExD4Sn-xM?t=1221 ==> Adding Pincode Service Avalablity. / Updated But Not For Mobile.
+
+https://youtu.be/2TdzZcVR_4g?t=175 ==> For Database Connection.
+
+https://youtu.be/bufV6bW96Bc?t=623 ==> For Make All T - Shirts Different. Complete But DoubtFull.
+
+https://youtu.be/iLd7e2RcFFs?t=138 ==> For Make All T - Shirts Size And Color Different. Not Complete
+
+
+
+
+
+
+
+
+
+
+
+MonhoDb False URL = mongodb://localhost:27017/?readPreference=primary&appname=MongoDB%20Compass&directConnection=true&ssl=false
+importent :- In MongoDb Connection Localhost Erase And Type MONGODB:127.0.0.1:27017
