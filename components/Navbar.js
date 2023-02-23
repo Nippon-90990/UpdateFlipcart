@@ -26,12 +26,12 @@ const Navbar = () => {
         <div className="logo mx-10 mt-1">
             <Link href={'/'}><Image width={100} height={50} src='/flipcart.jpg' alt='' /></Link>
         </div>
-        <div class="nav">
+        <div className="nav">
             <ul className='flex items-center space-x-7 font-bold md:text-xl'>
                 <Link href={'/TShirts'}><li>T - Shirts</li></Link>
                 <Link href={'/Hoodies'}><li>Hoodies</li></Link>
                 <Link href={'/Stickers'}><li>Stickers</li></Link>
-                <Link href={'/Headphones'}><li>Headphones</li></Link>
+                {/* <Link href={'/Headphones'}><li>Headphones</li></Link> */}
                 <Link href={'/Games'}><li>Games</li></Link>
             </ul>
         </div>
@@ -80,7 +80,7 @@ const Navbar = () => {
                     </div>
                 </li>
             </ol>
-            <button class="flex mx-auto mt-16 text-white bg-orange-500 border-0 py-2 px-8 focus:outline-none hover:bg-orange-600 rounded text-lg"><BsFillBagCheckFill className='m-1'/> Checkout</button>
+            <button className="flex mx-auto mt-16 text-white bg-orange-500 border-0 py-2 px-8 focus:outline-none hover:bg-orange-600 rounded text-lg"><BsFillBagCheckFill className='m-1'/> Checkout</button>
         </div>
 
 
